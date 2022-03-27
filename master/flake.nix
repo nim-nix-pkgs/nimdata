@@ -11,6 +11,7 @@
   inputs.src-nimdata-master.ref   = "refs/heads/master";
   inputs.src-nimdata-master.owner = "bluenote10";
   inputs.src-nimdata-master.repo  = "NimData";
+  inputs.src-nimdata-master.dir   = "";
   inputs.src-nimdata-master.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
