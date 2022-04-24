@@ -106,11 +106,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1650757539,
-        "narHash": "sha256-S2PQ3I2rXOl/Jg4nmehJWa/Wuwf2mBWSwDJ6MjtCiOI=",
+        "lastModified": 1650760959,
+        "narHash": "sha256-bv1kir0UvaTjZ9QOdECuDcQe5ZqD0YOt9OGZFYvofnw=",
         "owner": "nim-nix-pkgs",
         "repo": "plotly",
-        "rev": "58cf36ed009a08d5d2d045af392572deca2ead66",
+        "rev": "68fdf2905e0b88a21ba41e5859105c62e36cdb6a",
         "type": "github"
       },
       "original": {
