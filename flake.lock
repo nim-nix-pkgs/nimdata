@@ -3,10 +3,12 @@
     "chroma": {
       "inputs": {
         "flakeNimbleLib": [
+          "nimdata-master",
           "plotly",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
+          "nimdata-master",
           "plotly",
           "nixpkgs"
         ],
@@ -53,10 +55,12 @@
     "jsbind": {
       "inputs": {
         "flakeNimbleLib": [
+          "nimdata-master",
           "plotly",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
+          "nimdata-master",
           "plotly",
           "nixpkgs"
         ],
@@ -79,6 +83,35 @@
         "type": "github"
       }
     },
+    "nimdata-master": {
+      "inputs": {
+        "flakeNimbleLib": [
+          "flakeNimbleLib"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ],
+        "plotly": "plotly",
+        "src-nimdata-master": "src-nimdata-master",
+        "zip": "zip"
+      },
+      "locked": {
+        "dir": "master",
+        "lastModified": 1653703656,
+        "narHash": "sha256-gO2twgqwc9q9f8EZDYZeVU8NV+tGQtgGfcBARMPzseY=",
+        "owner": "nim-nix-pkgs",
+        "repo": "nimdata",
+        "rev": "de0cc2b202a6772ef98b69991e185bbf0c5ee63d",
+        "type": "github"
+      },
+      "original": {
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "nimdata",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
@@ -95,10 +128,12 @@
       "inputs": {
         "chroma": "chroma",
         "flakeNimbleLib": [
+          "nimdata-master",
           "flakeNimbleLib"
         ],
         "jsbind": "jsbind",
         "nixpkgs": [
+          "nimdata-master",
           "nixpkgs"
         ],
         "src-plotly-v0_3_0": "src-plotly-v0_3_0",
@@ -107,11 +142,11 @@
       },
       "locked": {
         "dir": "v0_3_0",
-        "lastModified": 1656302513,
-        "narHash": "sha256-PIir9ADgUUW3zhuSgR7ChcHY7jt6hTD9Xh387S8CKnY=",
+        "lastModified": 1653703529,
+        "narHash": "sha256-b95EY7qpe1vQ0L59Z9tCzbkQlr8OJI4+VDNqSfCR+lI=",
         "owner": "nim-nix-pkgs",
         "repo": "plotly",
-        "rev": "dcc5cc1bd73761be5a867e95504eb616e1e6ccc9",
+        "rev": "73a9a7b148d2564ac7556234bb0a9b9237a60bbd",
         "type": "github"
       },
       "original": {
@@ -125,10 +160,8 @@
     "root": {
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
-        "nixpkgs": "nixpkgs",
-        "plotly": "plotly",
-        "src-nimdata-master": "src-nimdata-master",
-        "zip": "zip"
+        "nimdata-master": "nimdata-master",
+        "nixpkgs": "nixpkgs"
       }
     },
     "src-chroma-0_2_5": {
@@ -253,10 +286,12 @@
     "webview": {
       "inputs": {
         "flakeNimbleLib": [
+          "nimdata-master",
           "plotly",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
+          "nimdata-master",
           "plotly",
           "nixpkgs"
         ],
@@ -282,10 +317,12 @@
     "ws": {
       "inputs": {
         "flakeNimbleLib": [
+          "nimdata-master",
           "plotly",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
+          "nimdata-master",
           "plotly",
           "nixpkgs"
         ],
@@ -311,20 +348,22 @@
     "zip": {
       "inputs": {
         "flakeNimbleLib": [
+          "nimdata-master",
           "flakeNimbleLib"
         ],
         "nixpkgs": [
+          "nimdata-master",
           "nixpkgs"
         ],
         "src-zip-0_3_1": "src-zip-0_3_1"
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1656301373,
-        "narHash": "sha256-aXSn2jhy596xh7IjsjeYmi4+CQTjKRHGuWGhhlQGfzc=",
+        "lastModified": 1653702565,
+        "narHash": "sha256-Ahht/HDERpvCOS3y0ZZJQxuiheZI/9LsP73LR8oZ8ek=",
         "owner": "nim-nix-pkgs",
         "repo": "zip",
-        "rev": "cc771513a8af68f26be5752625fc192701163e26",
+        "rev": "82de799cb6e2c7399287b09d6a0648ad3393db02",
         "type": "github"
       },
       "original": {
