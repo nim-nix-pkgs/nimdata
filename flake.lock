@@ -97,11 +97,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656302708,
-        "narHash": "sha256-80EdVtsD2XHinMgouAeSFLS17/F6SZQgL9ky3LHHGkE=",
+        "lastModified": 1657150385,
+        "narHash": "sha256-ekYOgnvEUCf8J0+OKkkBq2jD5T7XEk/WbDGBL0xgsUg=",
         "owner": "nim-nix-pkgs",
         "repo": "nimdata",
-        "rev": "23bd55d0f55faaedbf3b4d67989c417bdcb76afd",
+        "rev": "332afa4b29ffd66b1b4568f51547efb64f35eb60",
         "type": "github"
       },
       "original": {
@@ -136,21 +136,21 @@
           "nimdata-master",
           "nixpkgs"
         ],
-        "src-plotly-v0_3_0": "src-plotly-v0_3_0",
+        "src-plotly-v0_3_2": "src-plotly-v0_3_2",
         "webview": "webview",
         "ws": "ws"
       },
       "locked": {
-        "dir": "v0_3_0",
-        "lastModified": 1656302513,
-        "narHash": "sha256-PIir9ADgUUW3zhuSgR7ChcHY7jt6hTD9Xh387S8CKnY=",
+        "dir": "v0_3_2",
+        "lastModified": 1657154319,
+        "narHash": "sha256-/bFm46az7BQ/78O+IIVLUFL+vStOmYjzq4n6qJGb/6U=",
         "owner": "nim-nix-pkgs",
         "repo": "plotly",
-        "rev": "dcc5cc1bd73761be5a867e95504eb616e1e6ccc9",
+        "rev": "77f123934830c6f0e31017de69b4a3ec7acc1295",
         "type": "github"
       },
       "original": {
-        "dir": "v0_3_0",
+        "dir": "v0_3_2",
         "owner": "nim-nix-pkgs",
         "ref": "master",
         "repo": "plotly",
@@ -215,19 +215,19 @@
         "type": "github"
       }
     },
-    "src-plotly-v0_3_0": {
+    "src-plotly-v0_3_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1635786549,
-        "narHash": "sha256-Dv/yMPeZ4kfziyY4cPGJfVrKvqS/OPoNw3Zsun+N03c=",
+        "lastModified": 1657014570,
+        "narHash": "sha256-Ly7t1c524oOK7+UGn4c+hdhDMz/j0J1FfEIpuw2uPo4=",
         "owner": "SciNim",
         "repo": "nim-plotly",
-        "rev": "a34dcdcc62e28603847518f4bcd0bf1816399b7d",
+        "rev": "35f634279f1f52bbadccf5d9bb9ad55a3c89ea53",
         "type": "github"
       },
       "original": {
         "owner": "SciNim",
-        "ref": "refs/tags/v0.3.0",
+        "ref": "refs/tags/v0.3.2",
         "repo": "nim-plotly",
         "type": "github"
       }
@@ -359,11 +359,11 @@
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1656301373,
-        "narHash": "sha256-aXSn2jhy596xh7IjsjeYmi4+CQTjKRHGuWGhhlQGfzc=",
+        "lastModified": 1656747235,
+        "narHash": "sha256-HVu4HZ1iyX9RxV781gnbD+NQieIwwKnXB4m+BFwwwW4=",
         "owner": "nim-nix-pkgs",
         "repo": "zip",
-        "rev": "cc771513a8af68f26be5752625fc192701163e26",
+        "rev": "82df8a1358388dbfb92e53044ed24d94c2146dfa",
         "type": "github"
       },
       "original": {
