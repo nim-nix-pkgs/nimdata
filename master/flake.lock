@@ -139,11 +139,11 @@
       },
       "locked": {
         "dir": "v0_3_2",
-        "lastModified": 1658019389,
-        "narHash": "sha256-7oBLBI70fNsvjb00hvHWPunbP6/miRqhYFpuikkyeik=",
+        "lastModified": 1658033284,
+        "narHash": "sha256-O8Z3fBveMeyeQ0watOpG+L3WcHcg8E+ol/6qktPQ2u4=",
         "owner": "nim-nix-pkgs",
         "repo": "plotly",
-        "rev": "de1a8601edd31f37c237e882ccd77e852b9392da",
+        "rev": "e19006cd7eb67cdff37aa5fc938a6dd06036e0b2",
         "type": "github"
       },
       "original": {
@@ -369,11 +369,11 @@
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1658018391,
-        "narHash": "sha256-gQguXt3IC1IVdWCu1lDSxxgT8El/ARXmMyain36kU3k=",
+        "lastModified": 1658032346,
+        "narHash": "sha256-U4YAxxPUhx9UENiEHjIaBHryCECb0nGSxzYJAuhU4h4=",
         "owner": "nim-nix-pkgs",
         "repo": "zip",
-        "rev": "b39dd0c200f91122259e68ec07e28a9fdca92933",
+        "rev": "b1b50512f537e729726e4e4bbbe0cc47f6a04515",
         "type": "github"
       },
       "original": {
